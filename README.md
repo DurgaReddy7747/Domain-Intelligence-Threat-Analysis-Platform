@@ -287,12 +287,6 @@ This project also provides practical experience in:
 - AWS EC2 deployment
 - Application process management
 
-## 👨‍💻 Author
-
-**Ganapathi Reddy Padala**
-
-- GitHub: [@ganapathireddy12](https://github.com/ganapathireddy12)
-- LinkedIn: [Padala Ganapathi Reddy](https://linkedin.com/in/padala-ganapathi-reddy/)
 
 ---
 
